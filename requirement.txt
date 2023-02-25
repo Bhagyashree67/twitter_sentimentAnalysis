@@ -1,9 +1,0 @@
-streamlit
-matplotlib
-seaborn
-nltk
-snscrape
-string
-
-pandas
-emoji
